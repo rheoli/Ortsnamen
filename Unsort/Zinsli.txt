@@ -1,0 +1,95 @@
+Aus Paul Zinsli Ortsnamen:
+
+%Brigels/Brail%
+[kelt.]
+#Seite 19 und 21
+f"ur gallisch briga 'Berg' / 'Burg'
+< 765 Arduna < kelt. *are d{-}unon 'bei der Burg'
+%end%
+
+%Chur%
+[kelt.]
+#Seite 19
+von gallisch *korja 'Stamm, Sippe'
+nach Hubschmied
+%end%
+
+%Maienfeld%
+[kelt.]
+#Seite 19
+von gallisch magos f"ur 'Feld'
+%end%
+
+%Solothurn%
+[kelt.]
+#Seite 20
+Salodurum
+%end%
+
+%Olten%
+[kelt.]
+#Seite 20
+*Ollodunum
+%end%
+
+%Murten%
+[kelt.]
+#Seite 20
+*Mori-dunum
+%end%
+
+%Yverdon%
+[kelt.]
+#Seite 20
+Eburodunum
+%end%
+
+%Moudon%
+[kelt.]
+#Seite 20
+Minnodunum
+%end%
+
+%Thun%
+[kelt.]
+#Seite 20
+< laco Duninse f"ur den Thunersee im 7.Jh
+< kelt. *d{-}unon 
+%end%
+
+%Martigny%
+[kelt.]
+#Seite 20
+dt. Martinach < kelt. *Martiniacum
+%end%
+
+%Zizers%
+[kelt.]
+#Seite 21
+*Titio-durum (?)
+%end%
+
+%R"az"uns%
+[kelt.]
+#Seite 21
+r"atisch Raz{/}en < Ruzunnes 960 < *Raetiod{-}unum (R"atische Burg ?)
+%end%
+
+%Biel%
+[kelt.]
+Stadt Biel:
+-----------
+Das Stadtwappen mit der Axt wurde erst sp"ater eingef"uhrt, hat jedoch
+nichts mit der eigentlichen Bedeutung des Namens 'Biel' zu tun. (auf die
+Stadt Biel bezogen) Nach Urkunden aus dem Lateinischen hiess es Belna 
+(apud Belnam) 1142. Die franz"osische Parallelform Bienne wird von der
+latainisch deutschsprachigen Nennung 'de Bielno' von 1179 abgeleitet sein.
+Im 16.Jahrhundert wurde 'ze Bielne' geschrieben. Aus diesen Ableitungen
+wurde geschlossen, dass der Name Biel von dem keltischen Wort *Belena
+abstammen muss.
+Belenus/Belinus war der Name einer alten Quellengottheit. Denselben
+Grundstamm haben noch einige andere Ort- und Bezirknamen wie, 
+Beaune (Frankreich), Beune (S"udfrankreich), le Bainoz (im freiburgischen).
+Dieses Biel hat jedoch nichts mit den anderen Bieli, Bielen und Biel
+anderswo zu tun.
+%end%
